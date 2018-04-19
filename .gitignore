@@ -1,0 +1,6 @@
+*.pyc
+*.db
+*.zip
+*.orig
+.idea/*
+log/*

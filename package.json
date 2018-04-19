@@ -1,0 +1,14 @@
+{
+  "name": "RedisPubSub",
+  "version": "1.0.0",
+  "description": "Node Test Pub Sub with Redis",
+  "main": "app.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "redis": "^2.8.0"
+  }
+}
