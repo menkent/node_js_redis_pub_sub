@@ -4,3 +4,4 @@
 *.orig
 .idea/*
 log/*
+node_modules/*
