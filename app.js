@@ -11,9 +11,9 @@ var random_text = my_utils.random_text;
 var getTime = my_utils.getTime;
 
 // Числовые настроечные константы
-const generatorAliveDelay = 7000; // если столько времени ничего не было от генератора, то считать его мёртвым
+const generatorAliveDelay = 2000; // если столько времени ничего не было от генератора, то считать его мёртвым
 const generatorAliveTestDelay = 2000; // как часто проверять, живой ли генератор
-const generatorMessageTimeout = 5000; // частота генерации сообщений
+const generatorMessageTimeout = 500; // частота генерации сообщений
 const workersAliveTimeout = 10000; // частота проверки воркеров на живучесть
 const workersAliveDelay = 30000; // если столько времени ничего не было от воркера, то считать его мёртвым
 
